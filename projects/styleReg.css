@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+}
+/*registration form css*/
+.body{
+    
+    background-color: rgb(115, 182, 182);
+    
+}
+div.main{
+width:65%;
+margin: 40px auto 0px auto;
+height:auto;
+}
+.main h2{
+
+    text-align: center;
+    font-family: sans-serif;
+    color:red;
+}
+div.register{
+    margin-top: 10px;
+    padding-left: 30px;
+    padding-top: 30px;
+    background-color:rgb(102, 162, 142);
+    width:100%;
+    font-size: 20px;
+    border-radius: 20px;
+    height:400px;
+    border: 1px solid rgba(255,255,255, 0.3);
+    box-shadow: 2px 2px 15px rgba(0,0,0, 0.3);
+    
+}
+
+#button{
+    padding: 15px;
+    font-family: sans-serif;
+    font-size: 20px;
+    border-radius:10px;
+    border: 1px solid rgba(255,255,255, 0.3);
+    margin-top: 20px;
+    margin-left:40px;
+    
+    
+}
+

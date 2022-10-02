@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+}
+/*registration form css*/
+body{
+    
+    background-color: rgb(115, 182, 182);
+}
+ form{
+    margin-left: 20%;
+    margin-top: 80px;
+    border: 1px solid rgba(255,255,255, 0.3);
+    box-shadow: 2px 2px 15px rgba(0,0,0, 0.3);
+    width: 60%;
+    text-align: center;
+    border-radius:50px;
+}
+
+
+.div{
+    display: flex;
+}
+.div1{
+    margin-left: 50px;
+}
+.div2{
+    margin-left: 50px;
+}
+
+.form h2{
+    padding-bottom: 40px;
+    padding-top: 30px;
+ }
+ input{
+    width: 250px;
+    height: 27px;
+    border-radius: 6px;
+    border-style:none;
+ }
+ .div2 .option option{
+    width: 230px;
+ }
+  
+  .form .option option{
+    width: 250px;
+ }
+
+ .form .button button{
+    margin-top: 50px;
+    margin-left:-350px ;
+    margin-bottom:80px;
+    padding: 10px;
+    border-color:  rgb(54, 186, 54);
+    color:white ;
+    font-size: 20px;
+    border-radius: 6px;
+    background-color: rgb(54, 186, 54);
+    box-shadow: 2px 2px 15px rgba(0,0,0, 0.3);
+    border-style: none;
+ }
